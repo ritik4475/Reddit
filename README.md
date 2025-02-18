@@ -28,14 +28,14 @@ cd your-repo
 
 #### Backend Setup
 ```sh
-cd backend
+cd redditBackend
 npm install  # Install dependencies
 npm start  # Start the backend server
 ```
 
 #### Frontend Setup
 ```sh
-cd frontend
+cd redditFrontend
 npm install  # Install dependencies
 npm start  # Start the React development server
 ```
